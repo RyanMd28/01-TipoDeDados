@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Estrutura de Dados\n"
+    cout << "Estru de Dados\n"
     cout << "Tipos Numericos\n";
     cout << "===============\n";
     int i = 10;
